@@ -23,4 +23,15 @@ Po przejściu na strone <http://github.com>
 
 [![Strona tytyłowa GitHub](figs/zdjecie.png){fig-align="center"}](https://github.com/)
 
-Wpisz swojego maila i kliknij Sing up for GitHub. Nadaj hasło, którego nie udostepniaj nikomu i ciesz sie z kont aGitHub.
+Wpisz swojego maila i kliknij *Sing up for GitHub.* Nadaj hasło, którego nie udostepniaj nikomu i ciesz sie z kont aGitHub.
+
+## Ad2.
+
+Jeśli nie posiadasz maa komputerze programów R i RStudio, to zainstaluj je ze strony [htttp://r-project.org](htttp://r-project.org) <http://rstudio.com>. Natomiast jeśli powyższe programy są już zainstalowane na twoim komputerze to sprawdz czy posiadasz najnowsza wersje tych programów.
+
+```{r}
+#za pomocą tej komendy można sprawdzić wersję R
+R.version
+```
+
+![Tak można sprawdzić wersję RStudio. Kolejno klikając *Help\>\>About RStudio*](images/Zrzut%20ekranu%20(1138).png){fig-align="center"}
